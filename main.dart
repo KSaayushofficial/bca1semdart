@@ -10,3 +10,4 @@ void main() {
   
     print('n1 * n2 = $output');
 }
+// Dart program for multiplication
